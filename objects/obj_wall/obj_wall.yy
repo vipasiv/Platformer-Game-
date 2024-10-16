@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_wall",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_in_wall",
+    "path": "sprites/spr_in_wall/spr_in_wall.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
