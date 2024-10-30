@@ -7,6 +7,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"swalls","path":"sprites/swalls/swalls.yy",},"order":5,},
     {"id":{"name":"splayerr","path":"sprites/splayerr/splayerr.yy",},"order":4,},
+    {"id":{"name":"twalls","path":"tilesets/twalls/twalls.yy",},"order":0,},
     {"id":{"name":"sbackground","path":"sprites/sbackground/sbackground.yy",},"order":7,},
     {"id":{"name":"spr_in_wall","path":"sprites/spr_in_wall/spr_in_wall.yy",},"order":1,},
     {"id":{"name":"sclouds","path":"sprites/sclouds/sclouds.yy",},"order":6,},
