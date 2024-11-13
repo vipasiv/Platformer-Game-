@@ -14,6 +14,7 @@ if (health < 0) {
 //run out of lives
 if (lives < 0) {
 game_restart();
+
 }
 
 

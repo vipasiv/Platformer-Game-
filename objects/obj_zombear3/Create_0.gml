@@ -5,7 +5,8 @@ randomize();
 path_start(pth_enemy3_room1,3,path_action_reverse,true);
 path_position=random(1);
 
-
+prev_x = x;
+cur_x = x;
 
 
 
